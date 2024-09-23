@@ -1,2 +1,2 @@
-Simple 2D platformer game
+Simple 2D platformer game 
 Type: Casual, Adventure
